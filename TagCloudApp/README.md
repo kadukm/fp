@@ -1,6 +1,7 @@
 # Задание TagsCloudResult
 
-Задание следует выполнять на основе решения [задачи из блока Dependency Injection Container](https://github.com/kadukm/di).
+Задание следует выполнять на основе решения задачи из блока Dependency Injection Container.
+Ссылка на решение: [github.com/kadukm/di](https://github.com/kadukm/di).
 
 Переработай обработку ошибок следующим образом:
 
